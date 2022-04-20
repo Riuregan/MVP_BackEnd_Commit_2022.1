@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Private flight",
+    "callsign": "",
+    "country": "",
+    "active": "Y"
+  },
+  {
+    "id": "2",
+    "name": "135 Airways",
+    "callsign": "GENERAL",
+    "country": "United States",
+    "active": "N"
+  },
+  {
+    "id": "3",
+    "name": "1Time Airline",
+    "callsign": "NEXTIME",
+    "country": "South Africa",
+    "active": "Y"
+  },
+  {
+    "id": "4",
+    "name": "2 Sqn No 1 Elementary Flying Training School",
+    "country": "United Kingdom",
+    "active": "N"
+  },
+  {
+    "id": "5",
+    "name": "213 Flight Unit",
+    "callsign": "",
+    "country": "Russia",
+    "active": "N"
+  },
+  {
+    "id": "6",
+    "name": "223 Flight Unit State Airline",
+    "callsign": "CHKALOVSK-AVIA",
+    "country": "Russia",
+    "active": "N"
+  },
+  {
+    "id": "7",
+    "name": "224th Flight Unit",
+    "callsign": "CARGO UNIT",
+    "country": "Russia",
+    "active": "N"
+  },
+  {
+    "id": "8",
+    "name": "247 Jet Ltd",
+    "callsign": "CLOUD RUNNER",
+    "country": "United Kingdom",
+    "active": "N"
+  },
+  {
+    "id": "9",
+    "name": "3D Aviation",
+    "callsign": "SECUREX",
+    "country": "United States",
+    "active": "N"
+  },
+  {
+    "id": "10",
+    "name": "40-Mile Air",
+    "callsign": "MILE-AIR",
+    "country": "United States",
+    "active": "Y"
+  }
+]
+

@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "mvp_newhope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-json-modules ./source/server.js",
+    "dev": "nodemon --experimental-json-modules ./source/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  }
+}
